@@ -22,7 +22,7 @@ Describe the overall plan, who will do what and when to acheve the desired state
 
 ### Resource triangle:
 Try to understand the limitations and posibilities in all three corners of time, scope and cost and quality
-![](/images/resource_triangle.svg.png =200x)
+![](/images/resource_triangle.svg.png)
 
 
 
