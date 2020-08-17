@@ -22,7 +22,7 @@ Describe the overall plan, who will do what and when to acheve the desired state
 
 ### Resource triangle:
 Try to understand the limitations and posibilities in all three corners of time, scope and cost and quality
-![](/images/resource_triangle.svg.png)
+![](/images/Resource_triangle.svg)
 
 ### Risks to be minimized:
 Make a list of items that are crusial for the project to be successfoul and actions to minimize these risks as soon as possible.
