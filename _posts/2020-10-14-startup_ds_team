@@ -1,1 +1,45 @@
-Hellos
+How to startu a data science team. Mainly notes from the podcast podcast._init__ with an interview with Henrik Landgren, founder of spotify and EQT.
+[https://www.pythonpodcast.com/henrik-landgren-artificial-intelligence-episode-287/](ref)
+
+när, var och hur är AI användbart, 
+Stor risk att man gräver ner sig i massor av dashboards, metrics etc. Man vill minimera mängden information, hur får vi ut värde så att man kan ta bättre beslut.
+Om man inte är super diciplinerad kommer man lägga massor av tid på saker som i slutändan inte är användbart. Ta reda på vad som verkligen behövs, ta fram en hypotes och ta fram precis så många datapunkter som beövs för att kunna ta ett beslut.
+ja eller nej för att fortsätta.
+Många har inte fått ut något värde, bara ett isolerat resultat någon stans. man saknar länken mellan den data de har och de beslut som man vill ta. 
+Om man lyckas konkretisera vad nycklarna är för sin verksamhet, vad man skall mäta för att se om man är på rätt väg, då kan AI göra underverk.
+
+Motherbrain project? vad är det?
+
+hur man avänder sig av uttrycker machine learning ai deep-learning etc.
+Det viktigaste är utfallet och det finns massor av metoder att använda sig av. Om den är i statistik hinken, ML DL etc spelar mindre roll.
+
+en metod att hämta all data, både internt och externt. En enhet där man spar all data så att den blir lätt tillgänglig.
+Nästa enhet för att analysera datan och spara pipelines.
+bygga en logisk sekvens och då kan man lätt bygga tillsammans på ett effektivt sätt.
+Om man inte gör detta kommer man skapa massor av problem.
+
+Environment där data sicentist can access and expore models and place where they can put models into production
+14.00
+Or tooling for
+Output for serving models
+
+Bygga dashboards.
+utmana: för enkelt att bygga dashboards. Tänk istället att vilken information de behöver för att kunna ta ett beslut och pressentera detta med så få dashboards som möjligt.
+
+Vilket skillset är
+i början:
+2 roller: techincal roll- data engineer veta hur de olika komponenterna ser ut, tar architekt beslut. 
+Perosnen som ställer frågorna: Data scientist som kan koda men som även kan affärsmodellen så att man både teck och buisnis. Om man bara har en developer finns risken att man inte svarar på de viktigaste frågorna.
+hur man använder sig av de olika algorithmerna så att man kan vara kreativ och starta skapa de första modeller som finns. skapa prototyper av nya AI verktyg
+man måste experimentera och itterera massor av gånger.
+Detta är lätt om man ha all infrastruktur på plats.
+
+Data engineer: mycket bättre på att bygga saker som går att skala upp. 
+rensa data. skapa dataset som skall användas senare i pipelinen.
+därefter bygga vidare.
+
+finns egentligen inget som AI projekt. det handlar om att ständigt vara datadriven och använda sig av de bästa verktygen för att lyckas med sin verksamhet
+
+
+
+checkout data engineering podcast
