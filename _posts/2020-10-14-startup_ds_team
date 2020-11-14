@@ -41,5 +41,36 @@ därefter bygga vidare.
 finns egentligen inget som AI projekt. det handlar om att ständigt vara datadriven och använda sig av de bästa verktygen för att lyckas med sin verksamhet
 
 
+-------------
+Hur vet man om det är värt att starta ett projekt?
+-
+- Se till att man har tillräckligt med data
+- Hur kan man göra en process där AI och människor arbetar tillsammans.
+EQT- finns inte tillräckligt med datapunkter. Däremot Bygga en process med en modell som pressentera de mest intressanta punkterna därefter låter man människan slutföra uppgiften.
+När människan gjort sitt beslut så ger man feedback tillbaka till systemet så att den får en ström av data att arbeta vidare med för att förbättra sig själv.
+som ett självlärande process.
+inte lösa allt på en gång.
+
+26.45
+2 syften med platformen. göra beslutsprocessen så effektiv som möjligt. bygga modellerna för att göra detta.
+Om vi tar reda på vad som behövs för att göra beslutsprocessen effektivare och effektivare lär man sig vilken typ av data som behövs när den lyckas/misslyckas.
+Varje evolution för varje månad
+
+dashboards- som besluts verktyg, vad behöver de veta för att kunna ta ett bra beslut?
+
+hur ai används:
+gpt3 generara text med jälp av seed input.
+generera information, deep-fake videos.
+största misstag med AI. twitter agorithmen, väljer ett ansikte och väljer ansiktet och croppar till de.
+om det är flera ansikten, algorighmen väljer vita killen ansiktet.
+
+Man kommer förstärka BIAS in sin träningsloop. Hur kommer man bort från detta? Man indexerar på andra saker än vad algorighmen föreslår. t.ex att man kikar på diversiteten på sina teams.
+
+psykologin i platfromen så att man faktiskt använder sig av verktyget. Om det inte är enkelt att använda verktygen 
+Vad är personens arbetsbörda, är persoenen arbetsbörda, ge inte mer infromation om han inte är klar på andra sidan så att man får 
+
+
+agila tänkandet, börja smått skala upp!
+
 
 checkout data engineering podcast
