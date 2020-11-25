@@ -1,3 +1,11 @@
+## Introduction
+This topic is interesting for me since I have worked at a company who have put milions of dollars into AI and sees to be failing to get a ROI. What would I do better if I had the chance to change things?
+Most of these notes are from different sources eg from podcasts I have listened to, conferences I have attended or books I have read.
+- (Interview of Henrik Landgren, founder of Spotify and EQT)[https://www.pythonpodcast.com/henrik-landgren-artificial-intelligence-episode-287/]
+
+## Main pitfalls 
+Digging in data is fund and you can learn so much. This is also a problem since it's really easy to put time and effor into things that does not drive the project forward.
+
 How to startu a data science team. Mainly notes from the podcast podcast._init__ with an interview with Henrik Landgren, founder of spotify and EQT.
 [https://www.pythonpodcast.com/henrik-landgren-artificial-intelligence-episode-287/](ref)
 
