@@ -2,12 +2,27 @@
 This topic is interesting for me since I have worked at a company who have put milions of dollars into AI and sees to be failing to get a ROI. What would I do better if I had the chance to change things?
 Most of these notes are from different sources eg from podcasts I have listened to, conferences I have attended or books I have read.
 - [Podcast interview of Henrik Landgren, founder of Spotify and EQT](https://www.pythonpodcast.com/henrik-landgren-artificial-intelligence-episode-287/)
-- 
+- [How datascience will drive the next wave of disruption, anacondacon 2017](https://www.youtube.com/watch?v=jx1zqddZM1k&list=PLGB9meziqbzqvly8Skj3qTieC-fSXeR8T&index=17)
+- [The drivetrain approach](https://www.oreilly.com/radar/drivetrain-approach-data-products/)
 
 ## When and how is AI useful? 
-Digging in data is fund and you can learn so much. This is also a problem since it's really easy to put time and effor into things that does not drive the project forward and that is not useful. There are many companies who have not extracted any value, only isolated results where there is a missing link between data and the descissions that are needed.
+The buzzword about datadriven descissions is often iterpeted as having a lot of data, look into it and try to find patterns. But taking discisions upon that result often leads to disaster or consumes a lot of time without giving any usable result. One common outcome is to have isolated results where there is a missing link between data and the descissions that are needed. Others put some data-scientist into a room hoping for some magic to happen. -"Show us how good deep learning is, then you get some more money to play with!"
+The one who succeeds the best are the ones who understands the market and uses the data to get an even better understanding and use it to leverage the buissnes.
+
+The buisniss goals of a company should be reflected in the goals of the data-scientists where everyone is cooperating and insights is distrubuted around the company. The process of working together to a comon goals can be more valuable than the results from the models.
+The loop that is used for agile project execution is about the following:
+- Have a hypothesis that points to a goal.
+- Implement a solution
+- Test the solution
+- Measue the result and make some final adjustments.
+- Deploy the solution
+- Measure and verify if we go towards the goal.
+
+
+
 And It's really easy to create dashboards presenting a lot of metrics. The key is to minimize the amount of data that is pressented, and only pressent the data that is used to take better descisions.
 Present a hypothesis and extract only as many datapoints that is needed to take a descision. Should we continue or not?
+
 
 
 ## Which tecnique is most important, DL, ML, AI or statistics?
