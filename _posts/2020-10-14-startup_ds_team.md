@@ -1,30 +1,29 @@
 ## Introduction
 This topic is interesting for me since I have worked at a company who have put milions of dollars into AI and sees to be failing to get a ROI. What would I do better if I had the chance to change things?
 Most of these notes are from different sources eg from podcasts I have listened to, conferences I have attended or books I have read.
-- [Interview of Henrik Landgren, founder of Spotify and EQT](https://www.pythonpodcast.com/henrik-landgren-artificial-intelligence-episode-287/)
+- [Podcast interview of Henrik Landgren, founder of Spotify and EQT](https://www.pythonpodcast.com/henrik-landgren-artificial-intelligence-episode-287/)
+- 
 
-## Main pitfalls 
-Digging in data is fund and you can learn so much. This is also a problem since it's really easy to put time and effor into things that does not drive the project forward.
+## When and how is AI useful? 
+Digging in data is fund and you can learn so much. This is also a problem since it's really easy to put time and effor into things that does not drive the project forward and that is not useful. There are many companies who have not extracted any value, only isolated results where there is a missing link between data and the descissions that are needed.
+And It's really easy to create dashboards presenting a lot of metrics. The key is to minimize the amount of data that is pressented, and only pressent the data that is used to take better descisions.
+Present a hypothesis and extract only as many datapoints that is needed to take a descision. Should we continue or not?
 
-How to startu a data science team. Mainly notes from the podcast podcast._init__ with an interview with Henrik Landgren, founder of spotify and EQT.
-[https://www.pythonpodcast.com/henrik-landgren-artificial-intelligence-episode-287/](ref)
 
-när, var och hur är AI användbart, 
-Stor risk att man gräver ner sig i massor av dashboards, metrics etc. Man vill minimera mängden information, hur får vi ut värde så att man kan ta bättre beslut.
-Om man inte är super diciplinerad kommer man lägga massor av tid på saker som i slutändan inte är användbart. Ta reda på vad som verkligen behövs, ta fram en hypotes och ta fram precis så många datapunkter som beövs för att kunna ta ett beslut.
-ja eller nej för att fortsätta.
-Många har inte fått ut något värde, bara ett isolerat resultat någon stans. man saknar länken mellan den data de har och de beslut som man vill ta. 
-Om man lyckas konkretisera vad nycklarna är för sin verksamhet, vad man skall mäta för att se om man är på rätt väg, då kan AI göra underverk.
+## Which tecnique is most important, DL, ML, AI or statistics?
+The most important thing is if it solves you problem or not, it's not that important which bucket you are using to solve your problem.
 
-Motherbrain project? vad är det?
+# How do you build a successful 
+Start by finding a way of collecting both internal(within the company) and external data and store all the data on one place to make it easily accessable.
+The create a pipeline unit for analyzing the collected data. It need to be in a logical fashon meaning that you first have one part with all the raw-data, and then use it to extract some features and continlue to build further on the data. It's really important to make clear from where the data is extracted and where the result is stored, it's easy to make a mess.
+Then you need to make easy to store, test and deploy new models to fasten the itteration.
 
-hur man avänder sig av uttrycker machine learning ai deep-learning etc.
-Det viktigaste är utfallet och det finns massor av metoder att använda sig av. Om den är i statistik hinken, ML DL etc spelar mindre roll.
+Use an machinelearning engineer to setup the tools and a data scientist to produce the models. Don't use your best engineers, but use the one who have both the technical and buisniss understanding.
+Create clean dataset that can be used in the pipeline.
+Make it easy and fast to try out different solutions.
+There is actually nothing that is called AI, it's just a datadriven way of taking descissions.
 
-en metod att hämta all data, både internt och externt. En enhet där man spar all data så att den blir lätt tillgänglig.
-Nästa enhet för att analysera datan och spara pipelines.
-bygga en logisk sekvens och då kan man lätt bygga tillsammans på ett effektivt sätt.
-Om man inte gör detta kommer man skapa massor av problem.
+
 
 Environment där data sicentist can access and expore models and place where they can put models into production
 14.00
