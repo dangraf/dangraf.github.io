@@ -1,16 +1,18 @@
-## Introduction
+# Introduction
 This topic is interesting for me since I have worked at a company who have put milions of dollars into AI and sees to be failing to get a ROI. What would I do better if I had the chance to change things?
 Most of these notes are from different sources eg from podcasts I have listened to, conferences I have attended or books I have read.
 - [Podcast interview of Henrik Landgren, founder of Spotify and EQT](https://www.pythonpodcast.com/henrik-landgren-artificial-intelligence-episode-287/)
 - [How datascience will drive the next wave of disruption, anacondacon 2017](https://www.youtube.com/watch?v=jx1zqddZM1k&list=PLGB9meziqbzqvly8Skj3qTieC-fSXeR8T&index=17)
 - [The drivetrain approach](https://www.oreilly.com/radar/drivetrain-approach-data-products/)
+- [The dominion, a neerdy trailer about ds(https://www.youtube.com/watch?v=0XDqc5wTve0&list=PLGB9meziqbzqvly8Skj3qTieC-fSXeR8T&index=3&t=0s&app=desktop)
 
-## When and how is AI useful? 
+# When and how is AI useful? 
 The buzzword about datadriven descissions is often iterpeted as having a lot of data, look into it and try to find patterns. But taking discisions upon that result often leads to disaster or consumes a lot of time without giving any usable result. One common outcome is to have isolated results where there is a missing link between data and the descissions that are needed. Others put some data-scientist into a room hoping for some magic to happen. -"Show us how good deep learning is, then you get some more money to play with!"
 The one who succeeds the best are the ones who understands the market and uses the data to get an even better understanding and use it to leverage the buissnes.
+Present dashboards with minimum amount of data that can be uses for taking better descisions eg. Should we continue or not?
 
 The buisniss goals of a company should be reflected in the goals of the data-scientists where everyone is cooperating and insights is distrubuted around the company. The process of working together to a comon goals can be more valuable than the results from the models.
-The loop that is used for agile project execution is about the following:
+### The loop that is used for agile project execution is about the following:
 - Have a hypothesis that points to a goal.
 - Implement a solution
 - Test the solution
@@ -18,60 +20,37 @@ The loop that is used for agile project execution is about the following:
 - Deploy the solution
 - Measure and verify if we go towards the goal.
 
+As a result, there is nothing that is called AI, It's just a company using data and models to fasten the loop and make more efficient descisions.
+
+### mini Summary:
+- Make the loop fast!
+- I'ts a team sport, work together.
+- The process might be more important than the models that is created.
 
 
-And It's really easy to create dashboards presenting a lot of metrics. The key is to minimize the amount of data that is pressented, and only pressent the data that is used to take better descisions.
-Present a hypothesis and extract only as many datapoints that is needed to take a descision. Should we continue or not?
 
-
-
-## Which tecnique is most important, DL, ML, AI or statistics?
-The most important thing is if it solves you problem or not, it's not that important which bucket you are using to solve your problem.
-
-# How do you build a successful 
+# How do you build a successful DS team
 Start by finding a way of collecting both internal(within the company) and external data and store all the data on one place to make it easily accessable.
-The create a pipeline unit for analyzing the collected data. It need to be in a logical fashon meaning that you first have one part with all the raw-data, and then use it to extract some features and continlue to build further on the data. It's really important to make clear from where the data is extracted and where the result is stored, it's easy to make a mess.
-Then you need to make easy to store, test and deploy new models to fasten the itteration.
+Then create a pipeline unit for analyzing the collected data. It need to be in a logical fashon meaning that you first have one part with all the raw-data, and clean it to generate more data as input to models. The models generate some further data that can be used by other models. It's really important to make clear from where the data is extracted and where the result is stored, it's easy to make a mess. 
+Then you need to make easy to store, test and deploy new models to speed up the loop of experimentations. It's also more easy to add more people into the team using eachothers work if a solid framework is in place.
 
 Use an machinelearning engineer to setup the tools and a data scientist to produce the models. Don't use your best engineers, but use the one who have both the technical and buisniss understanding.
 Create clean dataset that can be used in the pipeline.
 Make it easy and fast to try out different solutions.
-There is actually nothing that is called AI, it's just a datadriven way of taking descissions.
+
+When creating a model, identify which data that are most important for your outcome. Some data can only be measured but to affected (wether temperature) and others you can change. Use your model and change the levers to maximize the result and to get a better understanding by isolating effects that otherwize could not be measured.
+
+# How do you know if it's worth starting a project.
+Make sure you have enugh data.
+Most tasks are too easy to solv with other methods or too complicated where humans need to be in place.
+It starts to become interesting when the models and humans are working together. Models are good at finding patterns in huge amount of data while humans are good at eg differentiating between causality and correlation and taking other aspects into accound that cant be fed into the model.
+When the humans have made there descision, put that descission into the loop again giving feedback for the models for improvement.
 
 
 
-Environment där data sicentist can access and expore models and place where they can put models into production
-14.00
-Or tooling for
-Output for serving models
-
-Bygga dashboards.
-utmana: för enkelt att bygga dashboards. Tänk istället att vilken information de behöver för att kunna ta ett beslut och pressentera detta med så få dashboards som möjligt.
-
-Vilket skillset är
-i början:
-2 roller: techincal roll- data engineer veta hur de olika komponenterna ser ut, tar architekt beslut. 
-Perosnen som ställer frågorna: Data scientist som kan koda men som även kan affärsmodellen så att man både teck och buisnis. Om man bara har en developer finns risken att man inte svarar på de viktigaste frågorna.
-hur man använder sig av de olika algorithmerna så att man kan vara kreativ och starta skapa de första modeller som finns. skapa prototyper av nya AI verktyg
-man måste experimentera och itterera massor av gånger.
-Detta är lätt om man ha all infrastruktur på plats.
-
-Data engineer: mycket bättre på att bygga saker som går att skala upp. 
-rensa data. skapa dataset som skall användas senare i pipelinen.
-därefter bygga vidare.
-
-finns egentligen inget som AI projekt. det handlar om att ständigt vara datadriven och använda sig av de bästa verktygen för att lyckas med sin verksamhet
 
 
--------------
-Hur vet man om det är värt att starta ett projekt?
--
-- Se till att man har tillräckligt med data
-- Hur kan man göra en process där AI och människor arbetar tillsammans.
-EQT- finns inte tillräckligt med datapunkter. Däremot Bygga en process med en modell som pressentera de mest intressanta punkterna därefter låter man människan slutföra uppgiften.
-När människan gjort sitt beslut så ger man feedback tillbaka till systemet så att den får en ström av data att arbeta vidare med för att förbättra sig själv.
-som ett självlärande process.
-inte lösa allt på en gång.
+
 
 26.45
 2 syften med platformen. göra beslutsprocessen så effektiv som möjligt. bygga modellerna för att göra detta.
