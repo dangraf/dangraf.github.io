@@ -23,6 +23,7 @@ The buisniss goals of a company should be reflected in the goals of the data-sci
 As a result, there is nothing that is called AI, It's just a company using data and models to fasten the loop and make more efficient descisions.
 
 ### mini Summary:
+- Make sure the DS goals is connected to the buisness goals.
 - Make the loop fast!
 - I'ts a team sport, work together.
 - The process might be more important than the models that is created.
@@ -38,78 +39,25 @@ Use an machinelearning engineer to setup the tools and a data scientist to produ
 Create clean dataset that can be used in the pipeline.
 Make it easy and fast to try out different solutions.
 
-When creating a model, identify which data that are most important for your outcome. Some data can only be measured but to affected (wether temperature) and others you can change. Use your model and change the levers to maximize the result and to get a better understanding by isolating effects that otherwize could not be measured.
+When creating a model, identify which data that are most important for your outcome. Some data can only be measured but to affected (wether temperature) and others you can change. Use your model and change the levers to maximize the result. You can also gain insigt by using the model to isolate effects that otherwize could not be measured.
+One compon problem with models is that then can reinforec already known insigts preventing it from exploring new features. eg, if we make a model to prevent crime and it tells us to prevent it eg in suburbs of stockholm. Then all polices are put into place where more data is collected and we are ending up in a loop where we don't look for other patterns. This bias can be prevented by using the models as a guidence and then eg sort the reult manually, find out that it's not logical that all polices are only located at one place.
+
+Another important note is that when putting a human in the loop, then make a feedback to the system about the decision that was made. This will make it possible for the algorithms to learn from the humans and continously improve.
 
 # How do you know if it's worth starting a project.
 Make sure you have enugh data.
-Most tasks are too easy to solv with other methods or too complicated where humans need to be in place.
+Most tasks are too easy to solve with other methods or too complicated where humans need to be in place.
 It starts to become interesting when the models and humans are working together. Models are good at finding patterns in huge amount of data while humans are good at eg differentiating between causality and correlation and taking other aspects into accound that cant be fed into the model.
 When the humans have made there descision, put that descission into the loop again giving feedback for the models for improvement.
 
 
+# future of AI.
+We have so far mostly used AI as a prediction tool. There are other tecniques out there to generate new data eg using [gpt-3](https://www.youtube.com/watch?v=gDDnTZchKec) for generating text and we have also seen a lot of fake videos. This will definetly be part of generating new content, eg websites, articles etc, but also to do fraud. 
 
 
 
+# Others
+It's very common to use AI tools and mostly concentrate on the algorithms of the tool. But it's also important to understand the psycology of the tools. It needs to be a help for the humans not a burdon. Some have implemented an algorithm to predict the workload of the humans to only as questions and get feedback when they have time to give it. If it feels like a burdon, it will be miss-used, you will get bad data and the overall functionality will fail.
 
 
-26.45
-2 syften med platformen. göra beslutsprocessen så effektiv som möjligt. bygga modellerna för att göra detta.
-Om vi tar reda på vad som behövs för att göra beslutsprocessen effektivare och effektivare lär man sig vilken typ av data som behövs när den lyckas/misslyckas.
-Varje evolution för varje månad
 
-dashboards- som besluts verktyg, vad behöver de veta för att kunna ta ett bra beslut?
-
-hur ai används:
-gpt3 generara text med jälp av seed input.
-generera information, deep-fake videos.
-största misstag med AI. twitter agorithmen, väljer ett ansikte och väljer ansiktet och croppar till de.
-om det är flera ansikten, algorighmen väljer vita killen ansiktet.
-
-Man kommer förstärka BIAS in sin träningsloop. Hur kommer man bort från detta? Man indexerar på andra saker än vad algorighmen föreslår. t.ex att man kikar på diversiteten på sina teams.
-
-psykologin i platfromen så att man faktiskt använder sig av verktyget. Om det inte är enkelt att använda verktygen 
-Vad är personens arbetsbörda, är persoenen arbetsbörda, ge inte mer infromation om han inte är klar på andra sidan så att man får 
-
-
-agila tänkandet, börja smått skala upp!
-
-
-checkout data engineering podcast
-
-
-anacondacon 2017:
-https://www.youtube.com/watch?v=xrYMfbcv3-c&list=PLGB9meziqbzqvly8Skj3qTieC-fSXeR8T&index=2
-
-the dominion
-
-Data sicence: 2017
-https://www.youtube.com/watch?v=jx1zqddZM1k&list=PLGB9meziqbzqvly8Skj3qTieC-fSXeR8T&index=17
-
-book ultra learning
-7:30: vanligaste felet, man anstället ett gäng data-scienteits, stänger in dem i ett rum och hoppas på att något magiskt skall hända.
-för att lyckas:
-1. team sport. uppgiften skall spegla företagets mål, vi hjälper varandra, insikter distrubueras över företaget så att man kan utveckla verksamheten
-2. Processen kan vara viktigare än modellen: genom att man systematiskt utvecklas kan även en misslyckad modell vara grunden till en förbättrad verksamhet
-3. Hastighet otroligt viktigt: När det gäller att testa en hyppotes och få ett svar är det viktigt att loopen är snabb. 
-
-insight driven buisnezes
-
-om man har en modell kan man 
-1. hämta (mer)data
-2. skaffa insikter
-3. testa och implementera insikter i mjukvara
-4. mäta resultatet och justera implementationen
-5. identifiera utfall och följ metrics
-gå tillbaka till nr 1
-
-snabbheten i denna process är viktig.
-
-trycker på att man inte skall köra "datadrivert" dvs vilken data har man, undersöka denna och därefter köra lite.
-1. De som lyckas känner till marknaden.
-2. De samlar ihop den data som de har och försöker skaffa kunskap som de tror har relevans
-3. de implementerar insikterna och testar dessa vilket genererar mer data och oftast mer insikter (24.00)
-
-31:30
-data: insikter: actions decisions
-
-https://www.youtube.com/watch?v=0XDqc5wTve0&list=PLGB9meziqbzqvly8Skj3qTieC-fSXeR8T&index=3&t=0s&app=desktop
