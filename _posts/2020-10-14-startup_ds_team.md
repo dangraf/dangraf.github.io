@@ -1,6 +1,6 @@
 # Introduction
 This topic is interesting for me since I have worked at a company who have put milions of dollars into AI and sees to be failing to get a ROI. What would I do better if I had the chance to change things?
-Most of these notes are from different sources eg from podcasts I have listened to, conferences I have attended or books I have read.
+Most of these notes are from different sources eg from podcasts I have listened to, conferences I have attended or books I have read and hopefully gives a good overview about this topic.
 - [Podcast interview of Henrik Landgren, founder of Spotify and EQT](https://www.pythonpodcast.com/henrik-landgren-artificial-intelligence-episode-287/)
 - [How datascience will drive the next wave of disruption, anacondacon 2017](https://www.youtube.com/watch?v=jx1zqddZM1k&list=PLGB9meziqbzqvly8Skj3qTieC-fSXeR8T&index=17)
 - [The drivetrain approach](https://www.oreilly.com/radar/drivetrain-approach-data-products/)
