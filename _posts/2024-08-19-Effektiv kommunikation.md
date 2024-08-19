@@ -4,6 +4,8 @@ Kommunikation??
 
 # Syfte
 En liten sammanfattning och tolkningar från olika böcker kring hjärnan och hur vi tar beslut samt lite hur vi kommunicerar med varandra. Detta för att bättre förstå hur man kan ta bättre beslut men även nå ut med sin idee till andra.
+Bra kommunikation löser många problem:
+![](/images/kommunikation_mål.svg)
 
 # Vad är ett beslut?
 Ett beslut är ,väldigt förenklat, uppdelat i två delar där den första delen är en insamlande del för att förstå själva problemet medan den andra delen är att man gör ett utifrån den informationen man har.
