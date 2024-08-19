@@ -49,8 +49,10 @@ får man inget OK här så är det ingen idee att fortsätta diskussionen eller 
 VI har nog alla varit med på möten eller diskussioner som i stort sätt aldrig slutar.¨
 
 ## Osynlig kommunikation.
-Vi kommunicerar även med vårt koropps-språk
+Vi kommunicerar även med vårt koropps-språk, vilken ton vi använder (låter man glad, anklagande, ledsen), hur man rör händerna, ögonkontakt etc. Dessa uttryck styrs oftas av hur vi mår innombords hur hur vi känner för den andra personen/personerna som man pratatar med.
+![ref](https://haiilo.com/blog/top-5-communication-skills-and-how-to-improve-them/)
 ## Några lädrommar
+
 - Ge aldrig kritik eller framför förslag när om  man känner sig upprörd /obalanserad. Denna obalans kommer märkas både genom ustrålning genom kroppen men även skriftligt som ett undermedvetet meddelande.
 - 
 
