@@ -1,3 +1,7 @@
+
+Kommunikation??
+
+
 # Syfte
 En liten sammanfattning och tolkningar från olika böcker kring hjärnan och hur vi tar beslut samt lite hur vi kommunicerar med varandra. Detta för att bättre förstå hur man kan ta bättre beslut men även nå ut med sin idee till andra.
 
@@ -27,15 +31,27 @@ Det man försöker göra är att hitta personer som tror/känner på samma sak s
 Detta är grundat i vår biologi.
 Hjärnans uppbyggnad liknande bubblan där ovan.
 - Yttersta: Neo Cortex motsvara "vad" bubblan. den rationella och analytiska delen av hjärnan samt språk
-- De mittersta motsvarar vårt limbiska system. Där bor våra känslor, förtroende, lojalitet, mycket beslutsfattande men förstår inte språk
+- De två mittersta (hur  och varför) motsvarar vårt limbiska system. Där bor våra känslor, förtroende, lojalitet, samt beslutsfattande men förstår inte språk
 [ted talk om vad som skiljer vanliga och riktigt bra ledare ca 20min lång](https://www.youtube.com/watch?v=qp0HIF3SfI4)
 
-## ta emot Kritik
+## ge/ta emot Kritik
+Om du ska ge återkoppling/förbättringsfröslag, börja med att verkligen förstå problemet. Kommunicera även ut hur du uppfatat problemet som du eventuellt försöker åtgärda. Det brukar ofta finnas en anledning till varför saker är som de är.
 När vi tar emot kritik/förbättringsförslag av andra är det många saker som sker i hjärnan. Det limbiska systemet känner detta ofta som obehad då det kan kännas som att man inte duger. Samtidigt (om det är konstruktiv kritik) kan feedbacken vara helt korrekt. Är man inte beredd på att få återkoppling eller att man inte förstår vad man har för nytta av feedbacken så kommer man ignorera den.
 Därför är det en god idee om att först kommunicera med det limbiska systemet först om man vill ge någon återkoppling:
 - Känner du att det där gick bra? jag har ett förbättringsförslag, vill du höra?
-får man inget OK här så är det ingen idee att fortsätta diskussionen eller framföra sitt budskap det kommer inte gå fram.
+eller:
+- Jag skulle vilja förbättra [någonting] så att det fungerar riktigt riktigt bra! har du lust att lyssna på några tips på hur man skulle kunna nå dit?
 
-## Pressentera en idee/mål eller sälja något.
+får man inget OK här så är det ingen idee att fortsätta diskussionen eller framföra sitt budskap det kommer inte gå fram. Om man även utgår från att man vill hjälpa den andra personen så är det lättare att öppna upp det limbiska systemet så att det blir mottagligt för information.
+
+
+## Komma övreens t.ex på möten.
+VI har nog alla varit med på möten eller diskussioner som i stort sätt aldrig slutar.¨
+
+## Osynlig kommunikation.
+Vi kommunicerar även med vårt koropps-språk
+## Några lädrommar
+- Ge aldrig kritik eller framför förslag när om  man känner sig upprörd /obalanserad. Denna obalans kommer märkas både genom ustrålning genom kroppen men även skriftligt som ett undermedvetet meddelande.
+- 
 
 
