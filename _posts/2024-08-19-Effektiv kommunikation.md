@@ -48,14 +48,32 @@ får man inget OK här så är det ingen idee att fortsätta diskussionen eller 
 
 
 ## Komma övreens t.ex på möten.
-VI har nog alla varit med på möten eller diskussioner som i stort sätt aldrig slutar.¨
+Vi har nog alla varit med på möten eller diskussioner som i stort sätt aldrig slutar. Ofast beror det på dålig kommunikation, t.ex att man inte pratar om samma sak. Men även att många vill hålla sin ståndpunkt att "de har rätt" utan att pressentera för och nackdelarna.
+Om man är öppen för ideen att man kan ha fel och att det finns saker som man är ovetandes om, då har man kommit ett steg på vägen.
+Nästa steg är att försöka ha en gemensam syn hur man avgör vad som är "rätt" eller inte. 
+Några lösningar på detta är. 
+  - Väga för/nackdelar mot varandra.
+  - Fråga någon som vet mer om änmnet, t.ex en expert.
+  - Göra ett litet test. Ofta finns det saker som i teorin borde fungera men som tyvärr inte gör det praktisk och tvärtom. Ta hummlan som exempel, det tog många år att bevisa att den faktiskt kan flyga.
+Man behöver inte
+- ha en tydlig process:
+  1. Lyssna på varandra, ställ gärna frågor och kontrollera att man förstått rätt.
+  2. diskutera de olika förslagen. Ett vanligt misstag är att man tror att man måste göra på det sättet som det pressenteras på. Man har alltid möjligheten att avstå från förslaget eller att modifiera det.
+  3. Därefter ta ett medvetet gemensamt beslut.
+ 
+Då tvingar man sina medarbetare att pressentera varför de tyckter som de tycker och alla blir mer införstådda i problematiken och kan lära sig av varandra. En annan fördel är att lösningen ofta brukar bli bättre så att man slipper återkomma vid senare tillfälle när ev följdproblem dyker upp.
+ 
+Det kommer ofta att finnas personer som känner att det var ett dåligt beslut trots att man försökt lägga all fakta på bordet. Ibland går det inte för NeoCortex att forumuela alla anledningar till vartför en sak ska vara på ett visst sätt. Så om man pratar med en person med mycket erfarenhet inom ett område finns det skäl till att vara försiktig även om denna person inte kan formulera exakt varför det är en dålig idee.
 
 ## Osynlig kommunikation.
 Vi kommunicerar även med vårt koropps-språk, vilken ton vi använder (låter man glad, anklagande, ledsen), hur man rör händerna, ögonkontakt etc. Dessa uttryck styrs oftas av hur vi mår innombords hur hur vi känner för den andra personen/personerna som man pratatar med.
 ![ref](https://haiilo.com/blog/top-5-communication-skills-and-how-to-improve-them/)
-## Några lädrommar
 
+## Några lädrommar
+- Var överens om  "hur" du vill kommunicera med den du pratar med innan ni startar en dialog/diskussion.
+  exempel Vid feedback: förklara att du vill gärna ge din syn på saken för att göra personen uppmärksam på något. Du vill gärna att pesonen lyssnar, funderar och tar sitt eget beslut om något skall förändras.
+  Exempel vid möte: Tydliggöra syftet med mötet, varför är vi här
 - Ge aldrig kritik eller framför förslag när om  man känner sig upprörd /obalanserad. Denna obalans kommer märkas både genom ustrålning genom kroppen men även skriftligt som ett undermedvetet meddelande.
-- 
+
 
 
