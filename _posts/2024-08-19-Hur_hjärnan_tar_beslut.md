@@ -7,4 +7,4 @@ Ett beslut behöver inte nödvändigt vara något projektrelaterat, det kan vara
 
 # Hur hjärnan är uppbyggd
 Vi tänker alla väldigt olika och dessa skillnader gör att vi har svårt att kommunicera med varandra. Samtidigt vill vi utnytja dessa skillnader om man skall försöka lösa ett komplext problem. [Principals, Ray Dalio, s 211]
-![images/Reptilian-limbic-brain-and-neocortex.png]
+![](images/Reptilian-limbic-brain-and-neocortex.png)
