@@ -77,6 +77,9 @@ Då tvingar man sina medarbetare att pressentera varför de tyckter som de tycke
  
 Det kommer ofta att finnas personer som känner att det var ett dåligt beslut trots att man försökt lägga all fakta på bordet. Ibland går det inte för NeoCortex att forumuela alla anledningar till vartför en sak ska vara på ett visst sätt. Så om man pratar med en person med mycket erfarenhet inom ett område finns det skäl till att vara försiktig även om denna person inte kan formulera exakt varför det är en dålig idee.
 
+## Dela med sig av lärdommar.
+Genom att sprida den kunskap som vi lär oss till andra kommer vi minimera risken för misstag. Oftas kan detta kännas jobbit om man gjort ett "dummt misstag" som man egentligen inte vill erkänna. Men om man lyckas hålla en öppen kultur där det är ok att göra misstag (första gången), då kan andra lära sig och man förhindrar framtida missar.
+
 ## Pressentera mål
 Genom att på ett effektivt beskriva varför något skall göra kan man tillsammans komma fram till hur och vad som skall göras. Det blir mindre risk för missförstånd och fel. Om man är riktigt duktig på att kommunicera ut tydliga mål låter man teamet/personen till stora delar själv tänka ut lösningar vilket skapar ansvarskänsla och lust till att lösa problemet.
 
