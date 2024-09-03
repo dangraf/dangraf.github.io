@@ -20,9 +20,12 @@ Vi inbillar oss att vi tänker logiskt och tar ett beslut utifrån t.ex för och
 Exempel. Du har en härlig tårtbit i kylen, Det libmiska systemet vill såklart att du skall smaka en bit medan det logiska systemet kanske säger att "nej, inte bra för min hälsa" eller liknande. Men plöttsligt så har det logiska systemet en motivering "bara en liten bit, det kan inte göra någon skada" eller någon annan förklaring till varför man borde lyssna till sina känslor.
 Det gäller även statistik från t.ex krig där man visar hur många det är som dödats och torterats. Men det räcker ofta med en blid på ett skadat barn för att skapa opinion, tänk den nakna flika i Vietnam, eller 4 åringen som låg drunknad på en strand i grekland.
 
-## Osynlig kommunikation.
+# Osynlig kommunikation.
 Vi kommunicerar även med vårt koropps-språk, vilken ton vi använder (låter man glad, anklagande, ledsen), hur man rör händerna, ögonkontakt etc. Dessa uttryck styrs oftas av hur vi mår innombords (även här styr det limbiska systemet)  hur hur vi känner för den andra personen/personerna som man pratatar med.
 ![ref](https://haiilo.com/blog/top-5-communication-skills-and-how-to-improve-them/)
+
+# Lyssna
+Att lyssna är en lika viktig del som att kunna prata. Ibland lysnar vi för att veta hur vi ska svara och ibland för att förstå. Om man försöker förstå den andra personen är det mycket lätare att kunna nå fram med sitt budskap. För att lyssna på den andra måste man även kunna vara öppen för att man får ny information och lär sig något nytt, dvs att den informationen man tidigare hade var felaktig eller bristfällig vilket ibland kan kännas jobbigt. Ju mer man ör öppen för detta faktum detso snabbare kan man själv lära sig och bli bättre på att ta beslut och nå ut till sina medarbetare.
 
 # Hur vi kommunicerar med andra personers hjärnor
 Genom att beskriva "varför" väcker vi känslorna i det libiska systemet som är de som faktiskt styr oss. Logiken kring "hur" vi uppnår det, kommer senare.
