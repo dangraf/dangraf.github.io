@@ -20,6 +20,10 @@ Vi inbillar oss att vi tänker logiskt och tar ett beslut utifrån t.ex för och
 Exempel. Du har en härlig tårtbit i kylen, Det libmiska systemet vill såklart att du skall smaka en bit medan det logiska systemet kanske säger att "nej, inte bra för min hälsa" eller liknande. Men plöttsligt så har det logiska systemet en motivering "bara en liten bit, det kan inte göra någon skada" eller någon annan förklaring till varför man borde lyssna till sina känslor.
 Det gäller även statistik från t.ex krig där man visar hur många det är som dödats och torterats. Men det räcker ofta med en blid på ett skadat barn för att skapa opinion, tänk den nakna flika i Vietnam, eller 4 åringen som låg drunknad på en strand i grekland.
 
+## Osynlig kommunikation.
+Vi kommunicerar även med vårt koropps-språk, vilken ton vi använder (låter man glad, anklagande, ledsen), hur man rör händerna, ögonkontakt etc. Dessa uttryck styrs oftas av hur vi mår innombords (även här styr det limbiska systemet)  hur hur vi känner för den andra personen/personerna som man pratatar med.
+![ref](https://haiilo.com/blog/top-5-communication-skills-and-how-to-improve-them/)
+
 # Hur vi kommunicerar med andra personers hjärnor
 Genom att beskriva "varför" väcker vi känslorna i det libiska systemet som är de som faktiskt styr oss. Logiken kring "hur" vi uppnår det, kommer senare.
 Vad är det vi egentligen vill uppnå? 
@@ -70,9 +74,9 @@ Då tvingar man sina medarbetare att pressentera varför de tyckter som de tycke
  
 Det kommer ofta att finnas personer som känner att det var ett dåligt beslut trots att man försökt lägga all fakta på bordet. Ibland går det inte för NeoCortex att forumuela alla anledningar till vartför en sak ska vara på ett visst sätt. Så om man pratar med en person med mycket erfarenhet inom ett område finns det skäl till att vara försiktig även om denna person inte kan formulera exakt varför det är en dålig idee.
 
-## Osynlig kommunikation.
-Vi kommunicerar även med vårt koropps-språk, vilken ton vi använder (låter man glad, anklagande, ledsen), hur man rör händerna, ögonkontakt etc. Dessa uttryck styrs oftas av hur vi mår innombords hur hur vi känner för den andra personen/personerna som man pratatar med.
-![ref](https://haiilo.com/blog/top-5-communication-skills-and-how-to-improve-them/)
+## Pressentera mål
+Genom att på ett effektivt beskriva varför något skall göra kan man tillsammans komma fram till hur och vad som skall göras. Det blir mindre risk för missförstånd och fel. Om man är riktigt duktig på att kommunicera ut tydliga mål låter man teamet/personen till stora delar själv tänka ut lösningar vilket skapar ansvarskänsla och lust till att lösa problemet.
+
 
 ## Några lädrommar
 - Var överens om  "hur" du vill kommunicera med den du pratar med innan ni startar en dialog/diskussion. Det är lite som att man pressenterar ett "öppnings förfarande" såhär vill jag att vi ska kommunicera, håller du med?
