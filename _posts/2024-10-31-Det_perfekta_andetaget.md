@@ -26,7 +26,10 @@ För mycket syre kan altså leda till syrebrist och kvävning.
 
 Lätt att testa själv med en pulsoximeter, att andas ofta eller långsamt, man får samma syrgashalt i blodet.
 
-Samma andningsfrekvens oavsätt belastning gör att man får mycket högre koldioxidtolerans, kan frakta mer syrgas till musklerna och på så sätt få bättre kondition!                           
+Samma andningsfrekvens oavsätt belastning gör att man får mycket högre koldioxidtolerans, kan frakta mer syrgas till musklerna och på så sätt få bättre kondition! 
+
+# Andas mindre
+Vi äter för mycket, vi borde även andas mindre, dvs inte lika djupa andetag (motsägelse från vad som sades i början)
 5-6ggr/min verkar vara den optimala andnringsfrekvensen enligt empiriska studier. (kundalini yogams mantra, japanska, hawaianska, afrikanska, buddhistiska  mfl har alla böner/mantran på 5-6 sek in och ut andning).
 Vid detta andningsmönster ökade blodflödet till hjärnan och kroppen kommer i ett slags koherans mellan hjärta, cirkulation och nervsystem sammordnas för maximal verkningsgrad.
-
+[Konstantin Pavlovich Buteyko](https://en.wikipedia.org/wiki/Konstantin_Buteyko). Han förespråkade att man skulle andas så nära sitt metaboliska behov som möjligt. Man kan andas oftare, men inte mer än 6l/min
