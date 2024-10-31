@@ -1,6 +1,7 @@
 # Sammanfattning av en bok
 Sammanfattning av boken "Det perfekta andetaget" av "Jamges Nestor", ISBN 978-91-79653-18-7.
 Det är lite styldigt men är mest tänkt som "kom-ihåg" punkter från boken.
+Lungorna är det enda organ av det autonoma nervsystemet som vi faktiskt kan påverka direkt. Detta ger oss kontakt med andra delar av kroppen 
 
 # 1. Andas genom näsan
 Näsan har många olika funktioner som att filtrera och förvärma luften som vi andas in samt att filtrera den från alla partiklar som virus och bakterier som man annars bara drar ner i lungorna. En annan fördel med näsandning är att en täpt näsa snabbt släpper så att man kan andas genom den igen. Annars finns risken att man börjar andas med munnen och bakterier mm ligger kvar i näsa och bihålor och gror till sig och kan orsaka bihåleinflamation.
