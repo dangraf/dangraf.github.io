@@ -72,7 +72,22 @@ Tummo andning, utvecklades av de tibutanska munkarna för att kunna utstå iskyl
 stimulerar även "vagusnerven" som är ett nätverk och stänger av/på våra inre organ beroende på stress. Även vår benägenhet att svimma styrs av vagusnerven. Man har upptäckt att Canser i 8 av de 10 inre organen beror på för lite blodcirkulation för att vi är i ständig stress. Därför finns en metod att operera in prober likt pacemaker för att lugna ner systemet och förebygga Canser.
 Genom att aktivera det parasympatiska nervsystemet påverkar detta även vagusnerven som på så vis ökar cirkulationen till de inre organen.
 
-Snabb andning i kombination med kalla dopp (Wim Hoff)
+Snabb andning i kombination med kalla dopp (Wim Hoff) frisätter adrenalin, kortisl, noradrenalin, frigör imunceller som är programmerade att läka sår, bekämpa patologer och infektioner.
+värer kroppen.
+
+Grof (som var en av de första att testa LSD) och jobbade på ett instituti i tjeckien pch sedan på John Hopkins institut undersökte effekterna av LSD för olika åkommor. När drogen föbjöds 1968 letde de efter alternativ halluciena metoder som inte skulle sätta dem i fängelse.
+Då upptäckte de kraftig andning. Ung samma teknik som tummo men upp till 3h som får en att bli helt utmattad och komma i kontakt med de inre delarna av hjärnan och sitt undermedvetna. Denna metod kallas holotropisk andning.
+
+ökad syrgas får blodkärlen att dra sig samman och minska flödet med upp till 40%. störningarna i hjärnan kan orsaka hallucinationer, störningar i minne och tidsuppfattning
 
 
 Teori: vi i vår skyddade värld blir aldrig utsatta för ordentlig stress vilket gör att vårt nervsystem hamnar i limbo,
+
+# Andningsmetoder:
+## Wim Hoff (Tummo)
+- Andas in/ut ca 30ggr, mage, bröst, släpp ut luften
+- Sista anvdetaget andas man ut helt och håller andran så länge man kan, ev att man tar en liten sip in. ca 1/4 av luften kvar iungorna
+- Ta sedan ett djupt andetag in, håll i 15 sek, försök flytta runt luften i lungorna.
+- Börja om igen, men med högre andningsfrekvens.
+
+- 
