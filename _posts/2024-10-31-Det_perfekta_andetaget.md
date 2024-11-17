@@ -79,6 +79,15 @@ Grof (som var en av de första att testa LSD) och jobbade på ett instituti i tj
 Då upptäckte de kraftig andning. Ung samma teknik som tummo men upp till 3h som får en att bli helt utmattad och komma i kontakt med de inre delarna av hjärnan och sitt undermedvetna. Denna metod kallas holotropisk andning.
 
 ökad syrgas får blodkärlen att dra sig samman och minska flödet med upp till 40%. störningarna i hjärnan kan orsaka hallucinationer, störningar i minne och tidsuppfattning
+## CO2
+De gamla rommarna erbjöd bad som innehöll mycket koldioxid i vattnet och var bra för både hyn, krigs-skador och gikt. Hudsjukdommar som poriasis och eksem läkte snabbt i sådanna bad.
+Man kan även inhalera CO2 som gas och på så sätt kemreceptorerna utan att hålla på med olika andingsövningar. I början av 1900 talet ansågs det så effektivt att brandförsvaret hade tuber med syrgas och 5% koldioxid.
+Om man ökar halten till ca 30% CO2 kan man använda den som en behandling mot ångest, epilepsi till och med schitzofreni. Men under 1950 talet försvann all denna kunskap och ersattes av tabletter, laser.
+Denna höga CO2 halt kan ge kraftiga pankik-ångest attacker så att patienterna värgrar återgå till behandlingen. Därför brukar den nuförtiden enbart ligga på ca 15%.
+Anders Ohlsson som forskat inom ämnet har upptäckt att en 7% blandning mellan CO2 och luft är den effektivaste blandningen för att hålla skärpa och få avslappning.
+
+# Snabbt långsamt och inte alls.
+
 
 
 Teori: vi i vår skyddade värld blir aldrig utsatta för ordentlig stress vilket gör att vårt nervsystem hamnar i limbo,
