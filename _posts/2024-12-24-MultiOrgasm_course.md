@@ -65,46 +65,75 @@ It also teaches greater self-control, enhancing your ability to manage and exten
 This is how it is done:
 Engage is any sexual activity, like masturbation or sex. When you start to feel that you are about 75% and the climax is coming closer, stop for a while. Continue to touch other parts of the body and allow the energy to slow down. Then as you get more aroused, allow it to grow until about 85%, then relax and touch the rest of the body. Continue to come closer and closer to the climax and learn how to stop just before it.
 This method is also very good for men who suffers from premature ejaculation.
-20. Today we are going to awaken your senses through your tastebuds.
-Sensory awakening shifts your focus from the mind to the body, heightening your ability to experience subtle pleasures and amplifying the sensations that lead to profound orgasmic states. When all your senses are alive and attuned, your body becomes more receptive, making every touch, sound, and taste more vivid and arousing.
-Food is a powerful tool for awakening the senses because it engages taste, smell, sight, and even touch. Here’s how to use food to heighten your sensual awareness:
-  1. Mindful Eating: Choose a small piece of something luxurious, like chocolate, a ripe strawberry, or a piece of mango. Close your eyes and focus on the texture, aroma, and taste as you let it slowly melt in your mouth. This practice trains you to savor every sensation, creating a deeper connection to pleasure.
-  2. Engage Smell and Taste: Experiment with foods that have rich and complex aromas, like spices, herbs, or wine. Smell the food deeply before tasting, allowing your sense of smell to heighten the anticipation and pleasure of the experience.
-  3. Touch and Texture: Use your hands to explore the texture of the food before eating it. Feel its smoothness, roughness, or juiciness—this tactile engagement helps you become more attuned to the sensations of touch in all areas of your body.
-  4. Visual Feast: Arrange food beautifully, incorporating vibrant colors and shapes. Visual stimulation can increase arousal and help you appreciate the beauty in what you consume.
+20. Today we are going to awaken your senses through your tastebuds. Sensory awakening shifts your focus from the mind to the body, heightening your ability to experience subtle pleasures and amplifying the sensations that lead to profound orgasmic states. When all your senses are alive and attuned, your body becomes more receptive, making every touch, sound, and taste more vivid and arousing. Food is a powerful tool for awakening the senses because it engages taste, smell, sight, and even touch. Here’s how to use food to heighten your sensual awareness:
+    1. Mindful Eating: Choose a small piece of something luxurious, like chocolate, a ripe strawberry, or a piece of mango. Close your eyes and focus on the texture, aroma, and taste as you let it slowly melt in your mouth. This practice trains you to savor every sensation, creating a deeper connection to pleasure.
+    2. Engage Smell and Taste: Experiment with foods that have rich and complex aromas, like spices, herbs, or wine. Smell the food deeply before tasting, allowing your sense of smell to heighten the anticipation and pleasure of the experience.
+    3. Touch and Texture: Use your hands to explore the texture of the food before eating it. Feel its smoothness, roughness, or juiciness—this tactile engagement helps you become more attuned to the sensations of touch in all areas of your body.
+    4. Visual Feast: Arrange food beautifully, incorporating vibrant colors and shapes. Visual stimulation can increase arousal and help you appreciate the beauty in what you consume.
 By using food to heighten your sensory awareness, you train your body to recognize and savor subtle sensations, laying the foundation for deeper and more fulfilling orgasmic pleasure.
-21. Today we will explore a very advanced and powerful technique to deepen the orgasmic pleasure.
 
-Breath retention, or controlled pauses in your breathing, can be a powerful tool for enhancing the depth and intensity of orgasms. It works by increasing your awareness of bodily sensations, circulating sexual energy, and activating the parasympathetic nervous system to deepen relaxation and pleasure. Here's how to use breath retention to enhance your orgasmic experience:
+21. Today we will explore a very advanced and powerful technique to deepen the orgasmic pleasure. Breath retention, or controlled pauses in your breathing, can be a powerful tool for enhancing the depth and intensity of orgasms. It works by increasing your awareness of bodily sensations, circulating sexual energy, and activating the parasympathetic nervous system to deepen relaxation and pleasure. Here's how to use breath retention to enhance your orgasmic experience:
 
-1. Prepare Your Body with Deep Breathing
+    1. Prepare Your Body with Deep Breathing
+      - Start by practicing deep, diaphragmatic breathing to calm your mind and oxygenate your body.
+      - Breathe in deeply through your nose for 4-6 seconds, expanding your belly, and exhale gently for the same count. Repeat this for 1-2 minutes.
+    2. Engage in Breath Retention During Arousal
+      - As you approach higher levels of arousal, inhale deeply and hold your breath for 3-5 seconds before slowly exhaling.
+      - While holding your breath, focus on the sensations in your body, particularly in your pelvic area. Imagine the sexual energy building and circulating.
+    3. Combine Retention with Muscle Engagement
+      - During breath retention, gently contract your pelvic floor muscles (similar to a Kegel exercise). This helps to intensify and direct the energy upward through your body.
+      - Release the contraction as you exhale, allowing the energy to flow naturally.
+    4. Use Retention to Edge
+      - If you're edging (approaching orgasm without climaxing), use breath retention when you're close to the peak. This helps you hold the energy and redistribute it throughout your body, prolonging the arousal phase and deepening your orgasmic potential.
+    5. Focus on Full-Body Energy
+      - During retention, visualize your breath and energy traveling up your spine and spreading through your body. This technique, often used in tantric and Taoist practices, can turn localized pleasure into a full-body orgasm.
+    6. During Orgasm
+      - Just before climax, inhale deeply and hold your breath for a few seconds, focusing all your awareness on the sensation. Release your breath slowly as you orgasm to amplify the intensity and duration of the experience. Practicing breath retention regularly can transform your sexual experience, unlocking new layers of depth, intensity, and connection.
 
-- Start by practicing deep, diaphragmatic breathing to calm your mind and oxygenate your body.
-
-- Breathe in deeply through your nose for 4-6 seconds, expanding your belly, and exhale gently for the same count. Repeat this for 1-2 minutes.
-
-2. Engage in Breath Retention During Arousal
-
-- As you approach higher levels of arousal, inhale deeply and hold your breath for 3-5 seconds before slowly exhaling.
-
-- While holding your breath, focus on the sensations in your body, particularly in your pelvic area. Imagine the sexual energy building and circulating.
-
-3. Combine Retention with Muscle Engagement
-
-- During breath retention, gently contract your pelvic floor muscles (similar to a Kegel exercise). This helps to intensify and direct the energy upward through your body.
-
-- Release the contraction as you exhale, allowing the energy to flow naturally.
-
-4. Use Retention to Edge
-
-- If you're edging (approaching orgasm without climaxing), use breath retention when you're close to the peak. This helps you hold the energy and redistribute it throughout your body, prolonging the arousal phase and deepening your orgasmic potential.
-
-5. Focus on Full-Body Energy
-
-- During retention, visualize your breath and energy traveling up your spine and spreading through your body. This technique, often used in tantric and Taoist practices, can turn localized pleasure into a full-body orgasm.
-
-6. During Orgasm
-
-- Just before climax, inhale deeply and hold your breath for a few seconds, focusing all your awareness on the sensation. Release your breath slowly as you orgasm to amplify the intensity and duration of the experience.
-
-Practicing breath retention regularly can transform your sexual experience, unlocking new layers of depth, intensity, and connection.
+22. Today we are going to try an advanced tantric practice, called the Micro Cosmic Orbit.
+    1. Preparation: Grounding and Relaxation
+    - Sit comfortably in a quiet place, either on a chair with your feet flat on the ground or cross-legged on a cushion.
+    - Close your eyes and take several deep breaths, focusing on relaxing your body. Imagine your body as an open, receptive vessel for energy.
+    - Rest your tongue lightly against the roof of your mouth (just behind your front teeth). This completes the energy circuit between the Du and Ren channels.
+    2. Activate the pelvic floor
+    - Focus your attention on the swathistana chakra, a point located about two inches below your navel and inside your body. This is the body's main energy center.
+    - Breathe deeply into your Lower Dantian, imagining it filling with warm, glowing light or energy. Feel this energy as a gentle, vibrant sensation.
+    3. Begin the Energy Flow
+    - With your awareness, guide the energy from your Lower Dantian down to your perineum (the area between your genitals and anus).
+    - From the perineum, direct the energy up your spine, vertebra by vertebra, all the way to the top of your head.
+    - Pause at the crown of your head and feel the energy gathering there.
+    4. Complete the Orbit
+    - Allow the energy to flow down the front of your body along the spine, passing through your forehead, nose, chest, and back to your Lower Dantian.
+    - Imagine the energy completing a circular flow through your body, connecting the back and front pathways.
+    5. Synchronize with Your Breath
+    - Inhale as you guide the energy up your spine.
+    - Exhale as you guide the energy down the front of your body.
+    - Repeat this cycle several times, visualizing the orbit as a continuous, smooth flow of light or energy.
+    6. Enhancing the Practice
+    - If desired, use your hands to help guide the energy. For example, trace your hands up your back and down the front of your body to reinforce the flow.
+    - Focus on sensations of warmth, tingling, or vibrancy as signs that the energy is circulating effectively.
+    7. Closing the Practice
+    - After several minutes or longer, return your awareness to your Lower Dantian and let the energy settle there.
+    - Imagine the energy condensing into a small, glowing sphere in your Lower Dantian. This ensures that your energy is grounded and stored.
+    Benefits of the Microcosmic Orbit:
+    - Enhances energy circulation and clears blockages.
+    - Cultivates sexual energy for healing and pleasure.
+    - Promotes emotional balance and mental clarity.
+    - Strengthens the connection between the mind and body. With regular practice, the Microcosmic Orbit can help you access deeper levels of vitality, connection, and pleasure, both in daily life and during intimacy.
+   
+  23. Let's explore deeper orgasms then only the ones coming from touching your face, your body and your genitals.
+The body’s ability to experience orgasms in areas beyond the genitals, such as the throat and anus, highlights the incredible capacity of the nervous system and mind to process pleasure in unexpected ways. These types of orgasms occur when these areas are stimulated with awareness, relaxation, and an openness to exploring the body’s full sensual potential.
+Throat Orgasms
+The throat contains a high concentration of nerve endings and is closely connected to the vagus nerve, which plays a significant role in the body's relaxation and pleasure responses. The throat is also energetically linked to self-expression and emotional release, making it a powerful area for experiencing deep pleasure. Vocalization, deep breathing, and gentle stimulation (like sensual touch or even singing) can awaken this area. Relaxing the throat and allowing energy to flow freely between the chest and head can lead to sensations of release and even orgasmic waves.
+Anal Orgasms
+The anus is another area rich in nerve endings, making it highly sensitive to touch and capable of producing profound pleasure when approached gently and with care. For all genders, the anus connects to deeper structures like the pelvic floor, prostate (for men), and G-spot area (for women), which amplifies orgasmic potential. Relaxation is crucial to allow pleasure to build without tension. When the body is fully at ease, anal stimulation can lead to intense orgasms that radiate throughout the entire body, creating a deep sense of surrender and connection.
+Unlocking These Orgasms
+    1. Relaxation: Release physical and mental tension through deep breathing and creating a safe, calm environment.
+    2. Gentle Exploration: Approach these areas with sensitivity, using touch, massage, or specific techniques like breathwork or sound to stimulate energy flow.
+    3. Energy Circulation: Visualize energy moving from the throat or anus through the body, connecting with other erogenous zones to enhance full-body pleasure.
+Exploring these areas not only broadens your orgasmic experiences but also deepens your relationship with your body, helping you access new dimensions of intimacy and connection.
+24. Now, if you followed the instructions in this online course... you should probably be multiorgasmic already.
+But if you still aren't, don't be disappointed. Its probably because there is still an amount of goal orientation or tension in you.
+Relaxing and surrendering to erotic energy is essential for experiencing a full-body orgasm because it allows you to let go of control and fully immerse yourself in the sensations of pleasure. Tension and resistance in the body block the natural flow of sexual energy, confining it to specific areas. When you relax, you open pathways for this energy to move freely throughout your body, transforming localized pleasure into a profound, whole-body experience.
+Surrendering requires trusting your body and the moment, letting go of any performance pressure or mental distractions. This openness allows you to connect deeply with your sensations, emotions, and energy, unlocking the potential for a full-body orgasm that transcends physical release and becomes a deeply fulfilling, holistic experience.
+If you still need inspiration to go deeper, feel free to book a tantric initiation with me. As a xxx - mas gift I offer you 10% discount if you use the code: XMAS when you book your session.
